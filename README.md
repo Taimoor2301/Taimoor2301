@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Taimoor2301
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Next JS , Node and backend development
-- 💞️ I’m looking to collaborate on frontend projects as well as full stack pojects
+- I am working as a FullStack developer and the technologies I use primarily are NextJs, ReactJs, NestJs, Node, Javascript and Typescript.
 - 📫 contact me on: taimoorali4214@gmail.com
 
 <!---
